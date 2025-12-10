@@ -815,6 +815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rug_Oval_Purple
       objectReference: {fileID: 0}
+    - target: {fileID: 1476450074357900981, guid: 2a0989c512f34104c9d5ca8e832c0b21, type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 8656087483511947524, guid: 50f8d835961353c4a8e0c4b77d7f8876, type: 3}
     - target: {fileID: 6463661162923987159, guid: 2a0989c512f34104c9d5ca8e832c0b21, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.336
